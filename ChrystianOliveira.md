@@ -1,3 +1,0 @@
-# MarkDown do Chrys
-
-Chrys
